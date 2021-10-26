@@ -2,7 +2,7 @@ d1 = {1: 2, 3: 4, 5: 6}
 d2 = {'bob': 'marley', 'mariah': 'carey'}
 d3 = {'jack': 1, 'michael': 2}
 d4 = {}
-d5 = {"who was in paris?": "niggas"}
+d5 = {"who was in paris?": "not sure"}
 
 
 
