@@ -8,12 +8,9 @@ def cal():
     for year in years:
         for month in months.split():
             for day in days.split():
-                    print(n, day, month, year)
+                    print(day, month, year)
 
 
-n = 0
-while n < 32:
-    n = n + 1
 
 
-print(n); cal()
+cal()
