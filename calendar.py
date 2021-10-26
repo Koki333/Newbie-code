@@ -12,4 +12,9 @@ for year in list1:
                 break
             if month == "Jun" and day == 31:
                 break    
+            if month == "Sep" and day == 31:
+                break
+            if month == "Nov" and day == 31:
+                break
+
             print(day, month, year)
